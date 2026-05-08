@@ -3,16 +3,18 @@
 **BrandProtekt** is a sleek, responsive SaaS dashboard designed to combat product counterfeiting. It provides brands with a centralized hub to verify product serial numbers, monitor distribution analytics, and detect fraudulent activity in real-time.
 
 ## 🚀 Live Demo
-[Insert your Vercel/GitHub Pages Link Here]
+https://anuradhavishwakarma30.github.io/anti-counterfeit-verification-system/
 
 ## ✨ Features
 - **Smart Verification:** Instantly checks serial numbers against a secure database of authentic codes.
 - **Counterfeit Detection:** Differentiates between authentic products, potential duplicates (tampered items), and confirmed fakes.
 - **Scanner Simulation:** A high-fidelity UI overlay that simulates a QR/Barcode scan process.
 - **Real-time Analytics:** Track "Authentic Found" vs. "Fake Detections" directly on the dashboard.
-- **Persistent History:** Uses LocalStorage to save scan logs eg ID: A123, timestamps, and status badges without needing a database for prototypes.
+- **Persistent History:** Uses LocalStorage to save scan logs  timestamps, and status badges without needing a database for prototypes.
+- 
+eg ID: AD123
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stackz
 - **Frontend:** HTML5, Modern CSS (SaaS Design System with Root Variables)
 - **Scripting:** Vanilla JavaScript (ES6+)
 - **Icons:** SVG-based vector icons for high-performance rendering.
